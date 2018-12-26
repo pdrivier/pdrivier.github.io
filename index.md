@@ -2,27 +2,8 @@
 
 I am a PhD student in the Department of Cognitive Science at the University of California, San Diego. I work with Dr. Lara Rangel in the Neural Crossroads Laboratory, where we investigate the emergence and evolution of neural oscillations (brain rhythms!!!) in the rodent hippocampus during associative learning. 
 
-### Markdown
+[Link](https://github.com/pdrivier/pdrivier.github.io/blob/master/Riviere_CV.pdf) and ![Image](src)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
