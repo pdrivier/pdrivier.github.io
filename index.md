@@ -2,7 +2,7 @@
 
 I am a PhD student in the Department of Cognitive Science at the University of California, San Diego. I work with Dr. Lara Rangel in the Neural Crossroads Laboratory, where we investigate the emergence and evolution of neural oscillations (brain rhythms!!!) in the rodent hippocampus during associative learning. 
 
-[Link](https://github.com/pdrivier/pdrivier.github.io/blob/master/Riviere_CV.pdf) and ![Image](src)
+[CV](https://github.com/pdrivier/pdrivier.github.io/blob/master/Riviere_CV.pdf) and ![Image](src)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
