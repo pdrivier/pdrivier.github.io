@@ -3,5 +3,5 @@ I am a post-doc working with Brad Voytek in the Department of Cognitive Science 
 
 Prior to this project, I characterized hippocampal inhibitory interneuron spike timing with respect to ongoing neural oscillations, with a special focus on potential spike timing variations as a function of behavioral state and olfactory/visuospatial stimuli.
 
-[CV](Riviere_CV.pdf)
+[CV](riviere-cv.pdf)
 [publications](publications.md)
