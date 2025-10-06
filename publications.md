@@ -1,6 +1,11 @@
 ### publications
 
-Rivière & Trott (under review) Start Making Sense(s): A Developmental Probe of Attention Specialization Using Lexical Ambiguity<img width="471" height="38" alt="image" src="https://github.com/user-attachments/assets/df855abb-fa0f-41ae-992e-db33fad59f28" />
+Rivière & Trott (under review) Start Making Sense(s): A Developmental Probe of Attention Specialization Using Lexical Ambiguity.
+
+Rivière, Beatty-Martínez, & Trott (2025) Evaluating Contextualized Representations of (Spanish) Ambiguous Words: A Lexical Resource and Empirical Analysis. In Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies. [link preview](https://aclanthology.org/anthology-files/pdf/naacl/2025.naacl-long.422.pdf)
+
+Rivière et al. (2025) Does Language Stabilize Quantity Representations in Vision Transformers? In Proceedings of the 47th Annual Conference of the Cognitive Science Society
+[link preview](https://escholarship.org/content/qt8f03g251/qt8f03g251.pdf)
 
 Rivière P.D., Schamberg, G, Coleman, T.P., Rangel L.M. (2022) Modeling relationships between rhythmic processes and neuronal spike timing. _Journal of Neurophysiology 128(3)_ p.593-610 [link preview](https://journals.physiology.org/doi/full/10.1152/jn.00423.2021)
 
