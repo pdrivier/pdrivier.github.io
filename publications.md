@@ -1,5 +1,7 @@
 ### publications
 
+Rivière & Trott (under review) Start Making Sense(s): A Developmental Probe of Attention Specialization Using Lexical Ambiguity<img width="471" height="38" alt="image" src="https://github.com/user-attachments/assets/df855abb-fa0f-41ae-992e-db33fad59f28" />
+
 Rivière P.D., Schamberg, G, Coleman, T.P., Rangel L.M. (2022) Modeling relationships between rhythmic processes and neuronal spike timing. _Journal of Neurophysiology 128(3)_ p.593-610 [link preview](https://journals.physiology.org/doi/full/10.1152/jn.00423.2021)
 
 Rivière P.D., Rangel L.M. (2018) Spike-Field Coherence and Firing Rate Profiles of CA1 Interneurons During an Associative Memory Task. _In: Deines A., Ferrero D., Graham E., Im M., Manore C., Price C. (eds) Advances in the Mathematical Sciences. AWMRS 2017. Association for Women in Mathematics Series, vol 15. Springer, Cham_ [link preview](https://link.springer.com/chapter/10.1007/978-3-319-98684-5_10)
