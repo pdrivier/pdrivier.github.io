@@ -17,5 +17,5 @@ I am broadly interested in questions that get at the training dynamics of langua
 [publications](publications.md)
 
 ## contact information
-# email
+##### email
 pdrivier@ucsd.edu
