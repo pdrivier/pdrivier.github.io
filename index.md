@@ -1,3 +1,4 @@
+## about me
 
 I am a UC Chancellor's Postdoctoral Fellow at UCSD, working with Brad Voytek and Ben Bergen in the Department of Cognitive Science, where I completed my PhD in 2023.
 
