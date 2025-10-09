@@ -15,3 +15,7 @@ I am broadly interested in questions that get at the training dynamics of langua
 
 [CV](riviere-cv.pdf)
 [publications](publications.md)
+
+## contact information
+# email
+pdrivier@ucsd.edu
