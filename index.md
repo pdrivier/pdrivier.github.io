@@ -1,20 +1,20 @@
 
-I am a UC Chancellor's Postdoctoral Fellow at UCSD, working with Brad Voytek and Ben Bergen in the Department of Cognitive Science, where I completed my PhD in 2023.
+I am a Postdoctoral Associate at Rutgers University-Newark, working with William Graves and Kimele Persaud in the Department of Psychology. 
 
-Throughout my research career, I have always been interested in how neural circuits adapt to variance and patterns of regularity in the world around us. In my graduate work, I explored this question within the rodent hippocampus, asking how inhibitory interneurons varied their spike timing as a function of changes to an environment's "reward landscape". More recently, I have pivoted my research efforts towards the study of learning in artificial neural networks, with a focus on transformer-based language models and how they vary their weights over the course of pre-training. 
+Originally trained to probe biological neural circuits, I have since pivoted to exploring artificial neural networks in the context of language modeling---work that is more commonly called "mechanistic interpretability". 
 
-I am broadly interested in questions that get at the training dynamics of language models: 
+Throughout my research career, I have always been interested in **learning**. That is: **how do neural circuits (biological or otherwise) adapt to patterns of regularity in their inputs**, whether that's the variety of scents and sights in the world around us (my PhD work), or the statistics of language (my postdoctoral work)? 
 
-1. what is the shape of the trajectory of performance on a particular task, over pre-training (e.g. is there a sharp increase, or gradual ramp-up in performance? are increases relatively smooth, or is there a lot of variance from checkpoint to checkpoint?)
+To get at this broad question tractably (for me), my work has focused on identifying the progression of model component specialization, with particular effort applied to attention heads in Transformer-based language models. My approach to interpretability is grounded in rich psycholinguistic and neurophysiology traditions, with a focus on carefully controlling stimuli; developing additional stress-tests (Rivière & Trott, 2025; Shapira et al., 2024) to carve out the boundaries of an attention head's **functional scope**; and subsequently causally intervening on a given attention head to determine necessity. 
 
-2. for a complex capability (e.g. mental state modeling: Alma thinks the ball is in the box.), is the onset of improvement **preceded** by the onset of improvement in a capability that we would deem more basic (e.g. having a robust situation model: Alma moved the ball to the box.)?
-
-3. can we use the charted trajectory of training dynamics to isolate the internal mechanisms that give rise to these trajectories of performance?
+Lastly, interpretability benefits substantially from the ability to perform probes at multiple model snapshots (or checkpoints) taken over the course of pretraining. Learning dynamics provide valuable context for the final state of affairs, the point at which the model has been deemed "fully pretrained". To date, I've made use of openly available language models, such as EleutherAI's Pythia Suite (Biderman et al., 2023) and AI2's OLMo 2 Suite, which offer a variety of pretraining checkpoints to directly characterize and intervene on! 
 
 
-[CV](riviere-cv.pdf)
+
+
+[CV](riviere-cv-2026-16-06.pdf)
 [publications](publications.md)
 
 ## contact information
 ##### email
-pdrivier@ucsd.edu
+pr693@psychology.rutgers.edu
