@@ -1,11 +1,14 @@
-### publications
 
-Rivière & Trott (under review) Start Making Sense(s): A Developmental Probe of Attention Specialization Using Lexical Ambiguity.
+### select works: interpretability in Transformer-based language models
 
-Rivière, Beatty-Martínez, & Trott (2025) Evaluating Contextualized Representations of (Spanish) Ambiguous Words: A Lexical Resource and Empirical Analysis. In Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies. [link preview](https://aclanthology.org/anthology-files/pdf/naacl/2025.naacl-long.422.pdf)
+Rivière P.D. & Trott S. (accepted, forthcoming) Start Making Sense(s): A Developmental Probe of Attention Specialization Using Lexical Ambiguity. Transactions of the Association for Computational Linguistics. [link preview](https://arxiv.org/pdf/2511.21974)
 
-Rivière et al. (2025) Does Language Stabilize Quantity Representations in Vision Transformers? In Proceedings of the 47th Annual Conference of the Cognitive Science Society
-[link preview](https://escholarship.org/content/qt8f03g251/qt8f03g251.pdf)
+Rivière P.D., Beatty-Martínez A., & Trott S. (2025) Evaluating Contextualized Representations of (Spanish) Ambiguous Words: A Lexical Resource and Empirical Analysis. In Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies. [link preview](https://escholarship.org/content/qt8f03g251/qt8f03g251.pdf)
+
+Rivière P.D., Jones C.R., & Trott S. (2026) Developmental Trajectories of Situation Modeling and Mentalizing in Transformer Language Models. In Proceedings of the 1st Workshop on Computational Developmental Linguistics 
+
+
+### select works: associative learning, inhibitory circuits, & the rodent hippocampus
 
 Rivière P.D., Schamberg, G, Coleman, T.P., Rangel L.M. (2022) Modeling relationships between rhythmic processes and neuronal spike timing. _Journal of Neurophysiology 128(3)_ p.593-610 [link preview](https://journals.physiology.org/doi/full/10.1152/jn.00423.2021)
 
@@ -13,8 +16,4 @@ Rivière P.D., Rangel L.M. (2018) Spike-Field Coherence and Firing Rate Profiles
 
 Rangel, L. M., Rueckemann, J.W., Rivière, P. D., Keefe, K. R. , Porter, B.S., Heimbuch, I. S., Budlong, C. H., Eichenbaum, H., (2016) Rhythmic coordination of hippocampal neurons during associative memory processing, _eLife_ doi:10.7554/eLife.09849. [link](https://elifesciences.org/articles/09849)
 
-#### short review articles
 
-Rivière P.D. (2017) Entorhinal Cortex. _In: Vonk J., Shackelford T. (eds) Encyclopedia of Animal Cognition and Behavior. Springer, Cham_ [link preview](https://link.springer.com/referenceworkentry/10.1007%2F978-3-319-47829-6_1302-1)
-
-Rivière P.D. (2018) Medial Entorhinal Area (MEA). _In: Vonk J., Shackelford T. (eds) Encyclopedia of Animal Cognition and Behavior. Springer, Cham_ [link preview](https://link.springer.com/referenceworkentry/10.1007/978-3-319-47829-6_1253-1)

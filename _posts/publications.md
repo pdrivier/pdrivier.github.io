@@ -7,7 +7,6 @@ Rivière P.D., Beatty-Martínez A., & Trott S. (2025) Evaluating Contextualized 
 Rivière P.D., Jones C.R., & Trott S. (2026) Developmental Trajectories of Situation Modeling and Mentalizing in Transformer Language Models. In Proceedings of the 1st Workshop on Computational Developmental Linguistics 
 
 
-
 ### select works: associative learning, inhibitory circuits, & the rodent hippocampus
 
 Rivière P.D., Schamberg, G, Coleman, T.P., Rangel L.M. (2022) Modeling relationships between rhythmic processes and neuronal spike timing. _Journal of Neurophysiology 128(3)_ p.593-610 [link preview](https://journals.physiology.org/doi/full/10.1152/jn.00423.2021)
