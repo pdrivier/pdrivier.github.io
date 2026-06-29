@@ -12,7 +12,7 @@ Lastly, interpretability benefits substantially from the ability to perform prob
 
 
 
-[CV](riviere-cv-2026-16-24)
+[CV](riviere-cv-2026-16-06.pdf)
 [publications](publications.md)
 
 ## contact information
